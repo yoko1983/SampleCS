@@ -5,6 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>SampleCS-test</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>ky</Authors>
+    <Company>ky</Company>
+
   </PropertyGroup>
 
 </Project>
